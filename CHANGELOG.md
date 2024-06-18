@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased](https://github.com/orisai/tracy-pets/compare/1.0.1...HEAD)
 
+### Fixed
+
+- Text overflow with too long words
+
 ## [1.0.1](https://github.com/orisai/tracy-pets/compare/1.0.0...1.0.1) - 2023-10-20
 
 ### Fixed
